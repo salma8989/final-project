@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "metadata": {},
+            "name": "peak_id",
+            "nullable": true,
+            "unique": true,
+            "type": "string"
+        },
+        {
+            "metadata": {},
+            "name": "peak_name",
+            "nullable": true,
+            "type": "string"
+        },
+        {
+            "metadata": {},
+            "name": "peak_alternative_name",
+            "nullable": true,
+            "type": "string"
+        },
+        {
+            "metadata": {},
+            "name": "height_metres",
+            "nullable": true,
+            "type": "integer"
+        },
+        {
+            "metadata": {},
+            "name": "climbing_status",
+            "nullable": true,
+            "type": "string"
+        },
+        {
+            "metadata": {},
+            "name": "first_ascent_year",
+            "nullable": true,
+            "type": "string"
+        },
+        {
+            "metadata": {},
+            "name": "first_ascent_country",
+            "nullable": true,
+            "type": "string"
+        },
+        {
+            "metadata": {},
+            "name": "first_ascent_expedition_id",
+            "nullable": true,
+            "type": "string"
+        }
+    ],
+    "type": "struct"
+}
