@@ -28,7 +28,7 @@ The Himalayan Database is a compilation of records for all expeditions that have
 2. The Expeditions table describes each of the climbing expeditions.
 3. The Peaks table describes the mountaineering peaks of Nepal, one record for each peak.
 
-![finpro-data-architecture](https://github.com/salma8989/final_project/assets/113493800/bdf6883d-0349-40fc-910f-92df7b607972)
+![finpro-data-architecture](https://github.com/salma8989/final-project/assets/113493800/9bf1d7c7-cd29-47e3-b57a-dc11954827d3)
 
 
 
